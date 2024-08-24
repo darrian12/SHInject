@@ -214,8 +214,4 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 SHInject01/SHInject01.vcxproj
-.vs/SHInject01/v17/Browse.VC.db-wal
-.vs/SHInject01/v17/Browse.VC.opendb
-.vs/SHInject01/v17/Browse.VC.db-shm
-.vs/SHInject01/v17/Browse.VC.db
-.vs/SHInject01/FileContentIndex/a1278053-bfd8-47c1-a75d-f33020e10b0e.vsidx
+.vs/*
